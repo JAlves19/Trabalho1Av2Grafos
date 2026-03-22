@@ -17,11 +17,6 @@ public class Main {
 
         // 2. Interação com usuário
         Scanner scanner = new Scanner(System.in);
-//        System.out.println("0:AL, 1:BA, 2:CE, 3:MA, 4:PB, 5:PE, 6:PI, 7:RN, 8:SE");
-//        System.out.print("Origem (ID): ");
-//        int X = scanner.nextInt();
-//        System.out.print("Destino (ID): ");
-//        int Y = scanner.nextInt();
         System.out.println("Estados disponíveis: AL, BA, CE, MA, PB, PE, PI, RN, SE");
 
         System.out.print("Digite a sigla da Origem (ex: CE): ");
