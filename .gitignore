@@ -1,0 +1,14 @@
+# Ignorar ficheiros compilados do Java (o "lixo" que o computador cria)
+*.class
+
+# Ignorar ficheiros de sistema e temporários
+Thumbs.db
+.DS_Store
+
+# Ignorar pastas de configuração de IDEs (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
